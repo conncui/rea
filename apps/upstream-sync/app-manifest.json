@@ -1,0 +1,12 @@
+{
+  "name": "REA Upstream Sync",
+  "description": "Synchronize installed forks of morluto/rea.",
+  "url": "https://github.com/conncui/rea",
+  "public": false,
+  "request_oauth_on_install": false,
+  "default_permissions": {
+    "contents": "write",
+    "pull_requests": "write"
+  },
+  "default_events": []
+}
